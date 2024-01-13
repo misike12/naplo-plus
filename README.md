@@ -1,10 +1,8 @@
-# reFilc+ ✨
-
-A collection of features only accessible for reFilc+ subscribers.
-
 ## Doesn't include any paid features, only things required for running the project
 
-# Instructions
+If you don't know what project I'm talking about, look [here](https://github.com/refilc/naplo)
+
+## Instructions
 
 After cloning `refilc/naplo`, change the remote url of the submodule
 ```sh
