@@ -2,6 +2,8 @@
 
 If you don't know what project I'm talking about, look [here](https://github.com/refilc/naplo)
 
+# This submodule was last tested on **2024 February 21**
+
 ## Instructions
 
 After cloning `refilc/naplo`, change the remote url of the submodule
