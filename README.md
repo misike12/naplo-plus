@@ -2,7 +2,7 @@
 
 If you don't know what project I'm talking about, look [here](https://github.com/refilc/naplo)
 
-# This submodule was last tested on **2024 February 21**
+# This submodule was last tested on 2024 February 21
 
 ## Instructions
 
