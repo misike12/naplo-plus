@@ -2,6 +2,8 @@
 
 If you don't know what project I'm talking about, look [here](https://github.com/refilc/naplo)
 
+**Only works on the `master` branch of the repo**
+
 # This submodule was last tested on 2024 February 21
 
 ## Instructions
