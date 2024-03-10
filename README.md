@@ -4,7 +4,7 @@ If you don't know what project I'm talking about, look [here](https://github.com
 
 **Only works on the `master` branch of the repo**
 
-# This submodule was last tested on 2024 February 29
+# This submodule was last tested on 2024 March 10
 
 ## Instructions
 
